@@ -1,0 +1,6 @@
+# Node.js
+node_modules/
+
+# Generated files
+index.html
+generate_website.js
